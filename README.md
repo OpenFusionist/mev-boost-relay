@@ -399,3 +399,20 @@ The code in this project is free software under the [AGPL License version 3 or l
 ---
 
 Made with ☀️ by the ⚡🤖 collective.
+
+# 操作指南
+
+之前的同学把官方指南里面的一些命名包成了脚本,加上了endurance网络特有的一些参数
+
+```
+
+sh housekeeper.sh
+
+sh api.sh
+
+sh website.sh
+```
+
+上面这些脚本的内容全部体现在 service.yaml
+
+``
